@@ -1,3 +1,1 @@
-MODEL WEIGHTS DRIVE LINK:
-https://drive.google.com/file/d/1PqsoyUNpxlKwLkEdFcyKlMrNafMK80PF/view?usp=sharing
-https://drive.google.com/file/d/1O2BXiny3XaSB4mrwDbUoqGeO2GlFePDn/view?usp=sharing
+MODEL WEIGHTS DRIVE LINK: https://drive.google.com/drive/folders/184M2tippkUNn6mZ_lJx3PaREL9gL_Def?usp=sharing
