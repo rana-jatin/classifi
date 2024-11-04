@@ -1,0 +1,4 @@
+!pip install pytesseract
+!pip install datasets
+!pip install 'git+https://github.com/facebookresearch/detectron2.git'
+!pip install streamlit
